@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7FEE4-781E-433E-8D0E-F5FAAAE45EAF}|ArchitectureTests\\ArchitectureTests.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\architecturetests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA7FEE4-781E-433E-8D0E-F5FAAAE45EAF}|ArchitectureTests\\ArchitectureTests.csproj|solutionrelative:architecturetests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ArchitectureTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "ArchitectureTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ArchitectureTests\\MSTestSettings.cs",
+              "RelativeToolTip": "ArchitectureTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:19:21.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
