@@ -1,10 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\",
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BA7FEE4-781E-433E-8D0E-F5FAAAE45EAF}|ArchitectureTests\\ArchitectureTests.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\architecturetests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA7FEE4-781E-433E-8D0E-F5FAAAE45EAF}|ArchitectureTests\\ArchitectureTests.csproj|solutionrelative:architecturetests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F49203CE-A7F3-44B7-A48F-E5B2F4331ED9}|..\\ArchitectureTests\\ArchitectureTests.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\architecturetests\\architecturetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +38,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ArchitectureTests\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "ArchitectureTests\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ArchitectureTests\\MSTestSettings.cs",
-              "RelativeToolTip": "ArchitectureTests\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ArchitectureTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ArchitectureTests\\ArchitectureTests.cs",
+              "RelativeDocumentMoniker": "..\\ArchitectureTests\\ArchitectureTests.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ArchitectureTests\\ArchitectureTests.cs",
+              "RelativeToolTip": "..\\ArchitectureTests\\ArchitectureTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:19:21.862Z",
+              "WhenOpened": "2024-12-10T22:20:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:36:58.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:36:51.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:34:08.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Primitives\\Entity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Primitives\\Entity.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Primitives\\Entity.cs",
+              "RelativeToolTip": "..\\Domain\\Primitives\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:32:33.225Z",
               "EditorCaption": ""
             }
           ]

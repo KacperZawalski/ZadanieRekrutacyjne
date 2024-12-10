@@ -1,0 +1,15 @@
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\net8.0\ZadanieRekrutacyjne.exe
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\net8.0\ZadanieRekrutacyjne.deps.json
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\net8.0\ZadanieRekrutacyjne.runtimeconfig.json
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\net8.0\ZadanieRekrutacyjne.dll
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\net8.0\ZadanieRekrutacyjne.pdb
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.sourcelink.json
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.dll
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\refint\ZadanieRekrutacyjne.dll
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.pdb
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ZadanieRekrutacyjne.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\net8.0\ref\ZadanieRekrutacyjne.dll
