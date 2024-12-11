@@ -3,7 +3,6 @@ using Application.Products.Queries;
 using Domain.Entities;
 using Infrastructure;
 using Infrastructure.Repository;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Presentation.View;
 using ZadanieRekrutacyjne.Validation;
 
@@ -11,9 +10,11 @@ namespace ZadanieRekrutacyjne
 {
     public class ZadanieRekrutacyjne
     {
+        private bool _displayedMenu = true;
         private readonly AppDbContext _dbContext = new AppDbContext();
         private List<Product> _products;
         private MenuView _menuView = new MenuView();
+        private OrderView _orderView = new OrderView();
         private Order _order = new Order();
         public ZadanieRekrutacyjne()
         {
@@ -45,19 +46,26 @@ namespace ZadanieRekrutacyjne
         }
         private void HandleInput()
         {
-            var waitForEscKey = new Task(() =>
-            {
-                if (Console.ReadKey().Key == ConsoleKey.Escape)
-                {
-                    Environment.Exit(0);
-                }
-            });
-            waitForEscKey.Start();
-
             var input = Console.ReadLine();
-
+            if (input == "@")
+            {
+                Environment.Exit(0);
+            }
+            if (input == "#")
+            {
+                if (_displayedMenu)
+                {
+                    _orderView.DisplayOrder(_order);
+                }
+                else
+                {
+                    _menuView.DisplayMenu(_products);
+                }
+                _displayedMenu = !_displayedMenu;
+            }
             if (input == null || !new ChooseProductInputValidation().Validate(input, _products.Count))
             {
+                _menuView.ClearLastConsoleLine();
                 return;
             }
 

@@ -6,6 +6,7 @@ namespace Domain.Entities
     {
         public Product Product { get; private set; }
         public int Amount { get; set; }
+        public decimal TotalPrice => Amount * Product.Price;
         public OrderItem(Guid id, Product product, int amount) : base(id)
         {
             Product = product;

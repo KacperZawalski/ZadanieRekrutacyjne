@@ -21,9 +21,10 @@ namespace Presentation.View
             }
             Console.WriteLine();
             Console.WriteLine("Wybierz produkt wpisując jego numer oraz literę \"a\" aby dodać go do zamówienia, lub \"r\" aby usunąć."); 
+            Console.WriteLine("Na przykład 2a");
             Console.WriteLine("Potwierdź wybór wciskając Enter");
-            Console.WriteLine("Wciśnij ESC aby wyjść z aplikacji");
-            Console.WriteLine("Wciśnij ALT aby zobaczyć zamówienie");
+            Console.WriteLine("Wpisz @ aby wyjść z aplikacji");
+            Console.WriteLine("Wciśnij # aby zobaczyć zamówienie");
         }
     }
 }

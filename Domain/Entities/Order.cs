@@ -8,6 +8,7 @@ namespace Domain.Entities
         private readonly decimal _threeProductsDiscount = 0.2m;
         private readonly decimal _totalExceedsValueDiscount = 0.05m;
         private readonly decimal _valueToExceed = 5000m;
+        private decimal _total = 0m;
 
         public List<OrderItem> Items { get; } = [];
         public Order(Guid id, List<OrderItem> items) : base(id)
@@ -54,32 +55,41 @@ namespace Domain.Entities
         }
         public decimal GetTotalPrice()
         {
+            _total = Items.Sum(x => x.Amount * x.Product.Price);
+
+            _total -= GetFirstDiscount();
+            _total -= GetSecondDiscount();
+            
+            return _total;
+        }
+
+        public decimal GetSecondDiscount()
+        {
+            decimal discount = 0m;
+            if (_total > _valueToExceed)
+            {
+                discount = _total * _totalExceedsValueDiscount;
+            }
+            return discount;
+        }
+
+        public decimal GetFirstDiscount()
+        {
             decimal discount = 0m;
 
-            decimal total = Items.Sum(x => x.Amount * x.Product.Price);
-
             var sortedProducts = Items.OrderBy(x => x.Product.Price).ToList();
-            
+
             if (Items.Sum(x => x.Amount) == 2)
             {
-                int index = Items[0].Amount == 1 ? 1 : 0;
+                int index = sortedProducts[0].Amount == 1 ? 1 : 0;
 
                 discount = sortedProducts[index].Product.Price * _twoProductsDiscount;
             }
-            else if (Items.Sum(x => x.Amount) == 3)
+            else if (Items.Sum(x => x.Amount) >= 3)
             {
-                int index = sortedProducts[0].Amount == 1 && sortedProducts[1].Amount == 1 ? 2 :
-                    sortedProducts[0].Amount == 2 || sortedProducts[1].Amount == 2 ? 1 : 0;
-
-                discount = sortedProducts[index].Product.Price * _threeProductsDiscount;
+                discount = sortedProducts[0].Product.Price * _threeProductsDiscount;
             }
-            total -= discount;
-
-            if (total > _valueToExceed)
-            {
-                total = total - total * _totalExceedsValueDiscount;
-            }
-            return total;
+            return discount;
         }
     }
 }
