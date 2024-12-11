@@ -3,26 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{112FE8D1-CE9E-4631-A548-99EEEA91C7FC}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\zadanierekrutacyjne\\zadanierekrutacyjne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|solutionrelative:zadanierekrutacyjne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545E1B42-A625-4EB1-BC3C-05C622ADB28C}|..\\Presentation\\Presentation.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\presentation\\view\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\zadanierekrutacyjne\\validation\\chooseproductinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|solutionrelative:validation\\chooseproductinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{112FE8D1-CE9E-4631-A548-99EEEA91C7FC}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86D2B4A-4886-4586-B3ED-5C27BCA95B1D}|..\\Application\\Application.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\application\\products\\commands\\addproductscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\abstraction\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B86D2B4A-4886-4586-B3ED-5C27BCA95B1D}|..\\Application\\Application.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\application\\products\\commands\\addproductscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\zadanierekrutacyjne\\zadanierekrutacyjne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|solutionrelative:zadanierekrutacyjne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B86D2B4A-4886-4586-B3ED-5C27BCA95B1D}|..\\Application\\Application.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\application\\orders\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B86D2B4A-4886-4586-B3ED-5C27BCA95B1D}|..\\Application\\Application.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\application\\products\\queries\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -43,9 +47,6 @@
       "AbsoluteMoniker": "D:0:0:{B86D2B4A-4886-4586-B3ED-5C27BCA95B1D}|..\\Application\\Application.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\application\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{545E1B42-A625-4EB1-BC3C-05C622ADB28C}|..\\Presentation\\Presentation.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\presentation\\view\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -60,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,59 +73,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetOrderByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Orders\\Queries\\GetOrderByIdQuery.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Orders\\Queries\\GetOrderByIdQuery.cs",
-              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Orders\\Queries\\GetOrderByIdQuery.cs",
-              "RelativeToolTip": "..\\Application\\Orders\\Queries\\GetOrderByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MenuView.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Presentation\\View\\MenuView.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\View\\MenuView.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Presentation\\View\\MenuView.cs",
+              "RelativeToolTip": "..\\Presentation\\View\\MenuView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T23:44:16.38Z",
+              "WhenOpened": "2024-12-11T04:40:55.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:22:45.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChooseProductInputValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\Validation\\ChooseProductInputValidation.cs",
+              "RelativeDocumentMoniker": "Validation\\ChooseProductInputValidation.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\Validation\\ChooseProductInputValidation.cs",
+              "RelativeToolTip": "Validation\\ChooseProductInputValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:50:29.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:04:41.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ZadanieRekrutacyjne.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne.cs",
               "RelativeDocumentMoniker": "ZadanieRekrutacyjne.cs",
               "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne.cs",
               "RelativeToolTip": "ZadanieRekrutacyjne.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIA3wBsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T01:16:22.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddProductsCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
-              "RelativeToolTip": "..\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T01:45:58.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Abstraction\\IProductRepository.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Abstraction\\IProductRepository.cs",
@@ -137,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetOrderByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Orders\\Queries\\GetOrderByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "..\\Application\\Orders\\Queries\\GetOrderByIdQueryHandler.cs",
@@ -150,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Abstraction\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Abstraction\\IOrderRepository.cs",
@@ -163,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Infrastructure\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\OrderRepository.cs",
@@ -176,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Abstraction\\ICommand.cs",
               "RelativeDocumentMoniker": "..\\Application\\Abstraction\\ICommand.cs",
@@ -189,7 +190,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "AddProductsCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
+              "RelativeToolTip": "..\\Application\\Products\\Commands\\AddProductsCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:45:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GetAllProductsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Products\\Queries\\GetAllProductsQueryHandler.cs",
               "RelativeDocumentMoniker": "..\\Application\\Products\\Queries\\GetAllProductsQueryHandler.cs",
@@ -202,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Abstraction\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "..\\Application\\Abstraction\\ICommandHandler.cs",
@@ -215,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Infrastructure\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\AppDbContext.cs",
@@ -228,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GetAllProductsQuery.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Application\\Products\\Queries\\GetAllProductsQuery.cs",
               "RelativeDocumentMoniker": "..\\Application\\Products\\Queries\\GetAllProductsQuery.cs",
@@ -237,19 +251,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T01:26:57.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MenuView.cs",
-              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Presentation\\View\\MenuView.cs",
-              "RelativeDocumentMoniker": "..\\Presentation\\View\\MenuView.cs",
-              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Presentation\\View\\MenuView.cs",
-              "RelativeToolTip": "..\\Presentation\\View\\MenuView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T01:40:13.299Z",
               "EditorCaption": ""
             },
             {
