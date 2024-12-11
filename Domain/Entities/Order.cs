@@ -81,9 +81,7 @@ namespace Domain.Entities
 
             if (Items.Sum(x => x.Amount) == 2)
             {
-                int index = sortedProducts[0].Amount == 1 ? 1 : 0;
-
-                discount = sortedProducts[index].Product.Price * _twoProductsDiscount;
+                discount = sortedProducts[0].Product.Price * _twoProductsDiscount;
             }
             else if (Items.Sum(x => x.Amount) >= 3)
             {

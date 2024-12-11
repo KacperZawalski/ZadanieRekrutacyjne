@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\zadanierekrutacyjne\\zadanierekrutacyjne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99EA638D-2093-455A-84B4-085F61761864}|ZadanieRekrutacyjne.csproj|solutionrelative:zadanierekrutacyjne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,9 +14,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{545E1B42-A625-4EB1-BC3C-05C622ADB28C}|..\\Presentation\\Presentation.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\presentation\\view\\orderview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B701A03B-7128-420F-9D8E-61226B144F66}|..\\Domain\\Domain.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{112FE8D1-CE9E-4631-A548-99EEEA91C7FC}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\kacper\\desktop\\projekty\\c#\\zadanierekrutacyjne\\infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -60,7 +60,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,20 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Order.cs",
               "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Domain\\Entities\\Order.cs",
               "RelativeToolTip": "..\\Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T06:02:08.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrderView.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Presentation\\View\\OrderView.cs",
               "RelativeDocumentMoniker": "..\\Presentation\\View\\OrderView.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuView.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\Presentation\\View\\MenuView.cs",
               "RelativeDocumentMoniker": "..\\Presentation\\View\\MenuView.cs",
@@ -111,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ZadanieRekrutacyjne.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne.cs",
               "RelativeDocumentMoniker": "ZadanieRekrutacyjne.cs",
               "ToolTip": "C:\\Users\\Kacper\\Desktop\\Projekty\\C#\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne.cs",
               "RelativeToolTip": "ZadanieRekrutacyjne.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwEMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T01:16:22.099Z",
               "EditorCaption": ""
