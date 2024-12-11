@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace ZadanieRekrutacyjne
+namespace Presentation
 {
     public static class AssemblyReference
     {

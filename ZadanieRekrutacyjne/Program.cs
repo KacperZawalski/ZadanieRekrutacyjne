@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿
+var app = new ZadanieRekrutacyjne.ZadanieRekrutacyjne();

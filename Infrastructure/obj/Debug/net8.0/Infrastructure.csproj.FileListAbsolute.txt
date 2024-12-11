@@ -22,3 +22,9 @@ C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\obj\Debug
 C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\Projekty\C#\ZadanieRekrutacyjne\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date

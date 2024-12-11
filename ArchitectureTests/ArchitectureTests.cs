@@ -7,7 +7,7 @@ namespace ArchitectureTests
     {
         private const string ApplicationNamespace = "Application";
         private const string InfrastructureNamespace = "Infrastructure";
-        private const string PresentationNamespace = "ZadanieRekrutacyjne";
+        private const string PresentationNamespace = "Presentation";
 
         [Fact]
         public void Domain_Should_Not_HaveDependencyOnOtherProjects()
@@ -31,7 +31,7 @@ namespace ArchitectureTests
         }
 
         [Fact]
-        public void Application_Should_Not_HaveDependencyOnInfrastructureAndPresentation()
+        public void Application_Should_Not_HaveDependencyOnPresentationAndInfrastructure()
         {
             var assembly = typeof(Application.AssemblyReference).Assembly;
 
@@ -67,7 +67,7 @@ namespace ArchitectureTests
         [Fact]
         public void Presentation_Should_Not_HaveDependencyOnInfrastructure()
         {
-            var assembly = typeof(ZadanieRekrutacyjne.AssemblyReference).Assembly;
+            var assembly = typeof(Presentation.AssemblyReference).Assembly;
 
             var testResult = Types
                 .InAssembly(assembly)
